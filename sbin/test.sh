@@ -9,7 +9,7 @@ set -o nounset
 PROJECTDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)";
 
 
-# Test the generator for 1000 iterations
+# Test the generator for 100 iterations
 SEEDX="3520266979";
 SEEDY="893267549";
 SEEDZ="3738293405";
