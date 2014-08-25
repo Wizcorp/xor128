@@ -4,8 +4,8 @@
 	"dependencies": {},
 	"local": [],
 	"paths": [],
-    "main": "./src/js/xor128.js",
+    "main": "src/js/xor128.js",
 	"scripts": [
-		"./src/js/xor128.js"
+		"src/js/xor128.js"
 	]
 }
