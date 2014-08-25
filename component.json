@@ -1,0 +1,11 @@
+{
+	"name": "xor128",
+    "description": "XOR128 Pseudo-Random Number Generator",
+	"dependencies": {},
+	"local": [],
+	"paths": [],
+    "main": "./src/js/xor128.js",
+	"scripts": [
+		"./src/js/xor128.js"
+	]
+}
